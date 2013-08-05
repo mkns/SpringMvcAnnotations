@@ -1,4 +1,4 @@
-package com.kennyscott.springmvctest1;
+package com.kennyscott.springmvcannotations;
 
 public interface IVehicleBean {
 

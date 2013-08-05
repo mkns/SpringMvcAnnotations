@@ -1,4 +1,4 @@
-package com.kennyscott.springmvctest1;
+package com.kennyscott.springmvcannotations;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
