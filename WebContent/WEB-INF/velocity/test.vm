@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Web MVC framework</title>
+</head>
+<body>
+
+	<p>
+		Working my way through <a
+			href="http://static.springsource.org/spring/docs/3.2.x/spring-framework-reference/html/mvc.html">Web
+			MVC framework</a>.
+	</p>
+
+	<p>You have a $carBean.type, which is a $carBean.make
+		$carBean.model</p>
+
+	<p>You have a $vanBean.type, which is a $vanBean.make
+		$vanBean.model</p>
+
+</body>
+</html>
